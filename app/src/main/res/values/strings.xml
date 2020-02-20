@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">whatsclone</string>
+    <string name="txtCredits">Support: <a href="http://www.stackoverflow.com">click here</a></string>
+</resources>
